@@ -1,5 +1,11 @@
 # @graphql-yoga/common
 
+## 2.1.0
+
+### Minor Changes
+
+- f6bcbd1: enhance(common): load graphiql from CDN
+
 ## 2.0.0
 
 ### Major Changes

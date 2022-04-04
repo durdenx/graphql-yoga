@@ -1,5 +1,14 @@
 # @graphql-yoga/render-graphiql
 
+## 2.1.0
+
+### Minor Changes
+
+- f6bcbd1: enhance(common): load graphiql from CDN
+- f6bcbd1: feat(graphiql): show bigint correctly in the output
+- Updated dependencies [f6bcbd1]
+  - @graphql-yoga/common@2.1.0
+
 ## 2.0.0
 
 ### Major Changes
